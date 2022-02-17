@@ -3,8 +3,7 @@ MLIR paper and other articles
 
 ## Paper
 ### Front 
-1. [Polygeist: Raising C to Polyhedral MLIR](https://c.wsmoses.com/papers/Polygeist_PACT.pdf)
-   [code link] (https://github.com/wsmoses/Polygeist)
+1. [Polygeist: Raising C to Polyhedral MLIR](https://c.wsmoses.com/papers/Polygeist_PACT.pdf)   [code link](https://github.com/wsmoses/Polygeist)
 
 ## Other articles
 ### Survey
